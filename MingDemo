@@ -1,0 +1,3 @@
+program
+write 'shared program with Ming'
+end program
