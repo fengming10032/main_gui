@@ -1,3 +1,4 @@
 program
 write 'shared program with Ming'
+write 'this is the second change.'
 end program
