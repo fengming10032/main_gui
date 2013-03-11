@@ -3,7 +3,7 @@
 |{ Header
 CALL GUI_MAIN.INITIALIZE
 PROGRAM
-. if (meminfo('GUI_CUSTOM.INITIALIZE:T',1) = 1) execute dbms 'call GUI_CUSTOM.INITIALIZE'
+. if (meminfo('GUI_CUSTOM.INITIALIZE:T',1) = 1) execute dbms 'call GUI_CUSTOM.INITIALIZE' | customization
 END PROGRAM
 
 RETRIEVAL UPDATE NOAUTOCASE |program crwarn
