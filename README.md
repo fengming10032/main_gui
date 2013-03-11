@@ -1,4 +1,4 @@
 main_gui
 ========
 
-SIR generic scre
+SIR generic data entry gui
